@@ -62,7 +62,7 @@ aws-cicd-pipeline-project/
 ---
 
 ### 4. Nginx Running Status
-![Nginx](screenshots/4-nginx-active.png)
+![Nginx](screenshots/4-nginx-status.png)
 
 ---
 
